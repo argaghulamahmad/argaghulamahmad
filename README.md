@@ -9,6 +9,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [My workflow to write posts at markdown based blog](https://blog.argaghulamahmad.dev/workflow-to-write-posts-at-markdown-based-blog/)
 - [Steps and things that you need to know to optimize your client side web app performance](https://blog.argaghulamahmad.dev/steps-and-things-that-needed-to-know-to-optimize-your-client-side-web-app-performance/)
-- [Ngobrol Kuy - Mobile Web (React) and Mobile Native (React Native)](https://blog.argaghulamahmad.dev/ngobrol-kuy/)
 - [One Day One Ayah Telegram Bot](https://blog.argaghulamahmad.dev/one-day-one-ayah-telegram-bot/)
+- [Ngobrol Kuy - Mobile Web (React) and Mobile Native (React Native)](https://blog.argaghulamahmad.dev/ngobrol-kuy/)
 <!-- BLOG-POST-LIST:END -->
