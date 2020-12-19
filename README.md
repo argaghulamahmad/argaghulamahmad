@@ -7,8 +7,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to be the Outstanding One - Manage Your Energy, Not Your Time](https://blog.argaghulamahmad.dev/deep-work-manage-energy/)
 - [SMART Goal-Driven Development (SGDD) - A Test-Driven Development (TDD) Analogy in Human Life](https://blog.argaghulamahmad.dev/smart-goal-driven-development/)
 - [Principles and Values that I Believe with the actions and efforts that aligned with that](https://blog.argaghulamahmad.dev/principles-values-actions-efforts/)
 - [My workflow to write posts at markdown based blog](https://blog.argaghulamahmad.dev/workflow-to-write-posts-at-markdown-based-blog/)
-- [Steps and things that you need to know to optimize your client side web app performance](https://blog.argaghulamahmad.dev/steps-and-things-that-needed-to-know-to-optimize-your-client-side-web-app-performance/)
 <!-- BLOG-POST-LIST:END -->
