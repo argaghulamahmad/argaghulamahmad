@@ -5,6 +5,10 @@
 
 - 📝 I regulary write articles on [https://blog.argaghulamahmad.dev/](https://blog.argaghulamahmad.dev/)
 
+- 🚧 See all my curated projects on [https://projects.argaghulamahmad.dev/](https://projects.argaghulamahmad.dev/)
+
+- 🔗 See all my online presence on [https://links.argaghulamahmad.dev/](https://links.argaghulamahmad.dev/)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [How to be the Outstanding One - Manage Your Energy, Not Your Time](https://blog.argaghulamahmad.dev/deep-work-manage-energy/)
