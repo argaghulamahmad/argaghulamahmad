@@ -11,8 +11,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Dealing with Unclear Requirements](https://blog.argaghulamahmad.dev/dealing-with-unclear-requirements/)
+- [Steps to Debug Efficiently and Effectively](https://blog.argaghulamahmad.dev/steps-to-debug-efficiently-and-effectively/)
 - [How to be the Outstanding One - Manage Your Energy, Not Your Time](https://blog.argaghulamahmad.dev/deep-work-manage-energy/)
 - [SMART Goal-Driven Development (SGDD) - A Test-Driven Development (TDD) Analogy in Human Life](https://blog.argaghulamahmad.dev/smart-goal-driven-development/)
-- [Principles and Values that I Believe with the actions and efforts that aligned with that](https://blog.argaghulamahmad.dev/principles-values-actions-efforts/)
-- [My workflow to write posts at markdown based blog](https://blog.argaghulamahmad.dev/workflow-to-write-posts-at-markdown-based-blog/)
 <!-- BLOG-POST-LIST:END -->
