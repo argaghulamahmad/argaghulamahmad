@@ -11,8 +11,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Please Dont Do It - Control and Eliminate Your Lust](https://blog.argaghulamahmad.dev/please-dont-do-it-control-and-eliminate-your-lust/)
 - [Dealing with Unclear Requirements](https://blog.argaghulamahmad.dev/dealing-with-unclear-requirements/)
 - [Steps to Debug Efficiently and Effectively](https://blog.argaghulamahmad.dev/steps-to-debug-efficiently-and-effectively/)
 - [How to be the Outstanding One - Manage Your Energy, Not Your Time](https://blog.argaghulamahmad.dev/deep-work-manage-energy/)
-- [SMART Goal-Driven Development (SGDD) - A Test-Driven Development (TDD) Analogy in Human Life](https://blog.argaghulamahmad.dev/smart-goal-driven-development/)
 <!-- BLOG-POST-LIST:END -->
