@@ -11,8 +11,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Make your service resilient to failures with circuit breaker](https://blog.argaghulamahmad.dev/2021/07/16/make-your-service-resilient-to-failures/)
 - [Maslow’s Hierarchy of Needs](https://blog.argaghulamahmad.dev/2021/06/01/maslow-pyramid/)
 - [SMART Goal-Driven Development (SGDD) – A Test-Driven Development (TDD) Analogy in Human Life](https://blog.argaghulamahmad.dev/2021/05/29/smart-goal-driven-development-sgdd-a-test-driven-development-tdd-analogy-in-human-life/)
 - [Dealing with Unclear Requirements](https://blog.argaghulamahmad.dev/2021/05/29/dealing-with-unclear-requirements/)
-- [How to be the Outstanding One – Manage Your Energy, Not Your Time](https://blog.argaghulamahmad.dev/2021/05/29/how-to-be-the-outstanding-one-manage-your-energy-not-your-time/)
 <!-- BLOG-POST-LIST:END -->
