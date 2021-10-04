@@ -11,8 +11,5 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Maslow’s Hierarchy of Needs](https://blog.argaghulamahmad.dev/2021/06/01/maslow-pyramid/)
-- [SMART Goal-Driven Development (SGDD) – A Test-Driven Development (TDD) Analogy in Human Life](https://blog.argaghulamahmad.dev/2021/05/29/smart-goal-driven-development-sgdd-a-test-driven-development-tdd-analogy-in-human-life/)
-- [Dealing with Unclear Requirements](https://blog.argaghulamahmad.dev/2021/05/29/dealing-with-unclear-requirements/)
-- [How to be the Outstanding One – Manage Your Energy, Not Your Time](https://blog.argaghulamahmad.dev/2021/05/29/how-to-be-the-outstanding-one-manage-your-energy-not-your-time/)
+- [How To Use Systemctl to Manage Systemd Services and Units](https://blog.argaghulamahmad.dev/2021/10/04/how-to-use-systemctl-to-manage-systemd-services-and-units/)
 <!-- BLOG-POST-LIST:END -->
