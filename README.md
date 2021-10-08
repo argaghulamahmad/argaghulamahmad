@@ -11,5 +11,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How To Use Systemctl to Manage Systemd Services and Units](https://blog.argaghulamahmad.dev/2021/10/04/how-to-use-systemctl-to-manage-systemd-services-and-units/)
+- [Install and Secure Redis](https://blog.argaghulamahmad.dev/2021/10/08/install-and-secure-redis/)
+- [Install and Configure Elasticsearch](https://blog.argaghulamahmad.dev/2021/10/08/install-and-configure-elasticsearch/)
+- [Infinite Games Summary](https://blog.argaghulamahmad.dev/2021/10/08/infinite-games-summary/)
+- [Principles to Live an Antifragile Life](https://blog.argaghulamahmad.dev/2021/10/08/principles-to-live-an-antifragile-life/)
 <!-- BLOG-POST-LIST:END -->
