@@ -11,8 +11,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mikrotik Basic Configuration](https://blog.argaghulamahmad.dev/2021/10/08/mikrotik-basic-configuration/)
 - [How to Win Friends and Influence People Summary](https://blog.argaghulamahmad.dev/2021/10/08/how-to-win-friends-and-influence-people-summary/)
 - [Outliers Summary – The Story of Success](https://blog.argaghulamahmad.dev/2021/10/08/outliers-summary-the-story-of-success/)
 - [“Start With Why” Is Bad Advice – Make difference with “How”](https://blog.argaghulamahmad.dev/2021/10/08/start-with-why-is-bad-advice-make-difference-with-how/)
-- [Start With Why Summary](https://blog.argaghulamahmad.dev/2021/10/08/start-with-why-summary/)
 <!-- BLOG-POST-LIST:END -->
