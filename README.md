@@ -11,8 +11,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Install and Secure Redis](https://blog.argaghulamahmad.dev/2021/10/08/install-and-secure-redis/)
-- [Install and Configure Elasticsearch](https://blog.argaghulamahmad.dev/2021/10/08/install-and-configure-elasticsearch/)
-- [Infinite Games Summary](https://blog.argaghulamahmad.dev/2021/10/08/infinite-games-summary/)
-- [Principles to Live an Antifragile Life](https://blog.argaghulamahmad.dev/2021/10/08/principles-to-live-an-antifragile-life/)
+- [How to Win Friends and Influence People Summary](https://blog.argaghulamahmad.dev/2021/10/08/how-to-win-friends-and-influence-people-summary/)
+- [Outliers Summary – The Story of Success](https://blog.argaghulamahmad.dev/2021/10/08/outliers-summary-the-story-of-success/)
+- [“Start With Why” Is Bad Advice – Make difference with “How”](https://blog.argaghulamahmad.dev/2021/10/08/start-with-why-is-bad-advice-make-difference-with-how/)
+- [Start With Why Summary](https://blog.argaghulamahmad.dev/2021/10/08/start-with-why-summary/)
 <!-- BLOG-POST-LIST:END -->
