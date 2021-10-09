@@ -7,6 +7,8 @@
 
 - 🚧 See all my curated projects on [https://projects.argaghulamahmad.dev/](https://projects.argaghulamahmad.dev/)
 
+- 🎓 See all my certificates on [http://certificates.argaghulamahmad.dev/](http://certificates.argaghulamahmad.dev/)
+
 - 🔗 See all my online presence on [https://links.argaghulamahmad.dev/](https://links.argaghulamahmad.dev/)
 
 ### Blogs posts
