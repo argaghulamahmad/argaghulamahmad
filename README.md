@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Install and Configure Elasticsearch](https://blog.argaghulamahmad.dev/2021/10/10/install-and-configure-elasticsearch-2/)
+- [Implement Elasticsearch in Go](https://blog.argaghulamahmad.dev/2021/10/10/implement-elasticsearch-in-go/)
 - [How to Get All Keys in Redis](https://blog.argaghulamahmad.dev/2021/10/09/how-to-get-all-keys-in-redis/)
 - [Automatically create requirements.txt](https://blog.argaghulamahmad.dev/2021/10/09/automatically-create-requirements-txt/)
-- [Mikrotik Basic Configuration](https://blog.argaghulamahmad.dev/2021/10/08/mikrotik-basic-configuration/)
-- [How to Win Friends and Influence People Summary](https://blog.argaghulamahmad.dev/2021/10/08/how-to-win-friends-and-influence-people-summary/)
 <!-- BLOG-POST-LIST:END -->
