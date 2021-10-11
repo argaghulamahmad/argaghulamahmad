@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Running Enterprise Search Using Docker](https://blog.argaghulamahmad.dev/2021/10/11/running-enterprise-search-using-docker/)
 - [Setup a Firewall with UFW](https://blog.argaghulamahmad.dev/2021/10/11/setup-a-firewall-with-ufw/)
 - [Django cheat sheet](https://blog.argaghulamahmad.dev/2021/10/11/django-cheat-sheet/)
 - [Deep Work by Cal Newport](https://blog.argaghulamahmad.dev/2021/10/11/deep-work-by-cal-newport/)
-- [Digital Minimalism: On Living Better with Less Technology by Cal Newport](https://blog.argaghulamahmad.dev/2021/10/11/digital-minimalism-on-living-better-with-less-technology-by-cal-newport/)
 <!-- BLOG-POST-LIST:END -->
