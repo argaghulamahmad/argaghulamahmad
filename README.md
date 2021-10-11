@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Django REST Framework and Elasticsearch](https://blog.argaghulamahmad.dev/2021/10/10/django-rest-framework-and-elasticsearch/)
 - [🔎 Elasticsearch 7.x Cheatsheet 🔍](https://blog.argaghulamahmad.dev/2021/10/10/%f0%9f%94%8e-elasticsearch-7-x-cheatsheet-%f0%9f%94%8d/)
 - [Ubuntu Update and Upgrade](https://blog.argaghulamahmad.dev/2021/10/10/ubuntu-update-and-upgrade/)
 - [Screen Quick Reference](https://blog.argaghulamahmad.dev/2021/10/10/screen-quick-reference/)
-- [Pipenv Cheat Sheet](https://blog.argaghulamahmad.dev/2021/10/10/pipenv-cheat-sheet/)
 <!-- BLOG-POST-LIST:END -->
