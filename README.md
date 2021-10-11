@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Setup a Firewall with UFW](https://blog.argaghulamahmad.dev/2021/10/11/setup-a-firewall-with-ufw/)
+- [Django cheat sheet](https://blog.argaghulamahmad.dev/2021/10/11/django-cheat-sheet/)
+- [Deep Work by Cal Newport](https://blog.argaghulamahmad.dev/2021/10/11/deep-work-by-cal-newport/)
 - [Digital Minimalism: On Living Better with Less Technology by Cal Newport](https://blog.argaghulamahmad.dev/2021/10/11/digital-minimalism-on-living-better-with-less-technology-by-cal-newport/)
-- [Digital Minimalism by Cal Newport](https://blog.argaghulamahmad.dev/2021/10/11/digital-minimalism-by-cal-newport/)
-- [5 Levels of Maslow’s Hierarchy of Needs](https://blog.argaghulamahmad.dev/2021/10/11/5-levels-of-maslows-hierarchy-of-needs/)
-- [Django REST Framework and Elasticsearch](https://blog.argaghulamahmad.dev/2021/10/10/django-rest-framework-and-elasticsearch/)
 <!-- BLOG-POST-LIST:END -->
