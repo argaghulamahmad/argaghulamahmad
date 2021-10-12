@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Power Tool: Proactive vs. Reactive](https://blog.argaghulamahmad.dev/2021/10/12/power-tool-proactive-vs-reactive/)
+- [Cybersecurity Techniques: Reactive vs. Proactive](https://blog.argaghulamahmad.dev/2021/10/12/cybersecurity-techniques-reactive-vs-proactive/)
+- [IMPORTANCE OF BEING PROACTIVE VS. REACTIVE as Leader](https://blog.argaghulamahmad.dev/2021/10/12/importance-of-being-proactive-vs-reactive-as-leader/)
 - [Top Running Processes by Highest Memory and CPU Usage in Linux](https://blog.argaghulamahmad.dev/2021/10/11/top-running-processes-by-highest-memory-and-cpu-usage-in-linux/)
-- [Running Enterprise Search Using Docker](https://blog.argaghulamahmad.dev/2021/10/11/running-enterprise-search-using-docker/)
-- [Setup a Firewall with UFW](https://blog.argaghulamahmad.dev/2021/10/11/setup-a-firewall-with-ufw/)
-- [Django cheat sheet](https://blog.argaghulamahmad.dev/2021/10/11/django-cheat-sheet/)
 <!-- BLOG-POST-LIST:END -->
