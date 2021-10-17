@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Regex For Replace HTML href src Django Templating](https://blog.argaghulamahmad.dev/2021/10/17/regex-for-replace-html-href-src-django-templating/)
 - [Funny Romance Graphs](https://blog.argaghulamahmad.dev/2021/10/14/funny-romance-graphs/)
 - [New Relic Example  in GoLang](https://blog.argaghulamahmad.dev/2021/10/13/new-relic-example-in-golang/)
 - [Elasticsearch in Go](https://blog.argaghulamahmad.dev/2021/10/13/elasticsearch-in-go/)
-- [Power Tool: Proactive vs. Reactive](https://blog.argaghulamahmad.dev/2021/10/12/power-tool-proactive-vs-reactive/)
 <!-- BLOG-POST-LIST:END -->
