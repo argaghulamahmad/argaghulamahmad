@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fav Indonesia Songs Video Clip](https://blog.argaghulamahmad.dev/2021/10/18/fav-indonesia-songs-video-clip/)
 - [Biaya Admin Bank BCA BNI](https://blog.argaghulamahmad.dev/2021/10/17/biaya-admin-bank-bca-bni/)
 - [Regex For Replace HTML href src Django Templating](https://blog.argaghulamahmad.dev/2021/10/17/regex-for-replace-html-href-src-django-templating/)
 - [Funny Romance Graphs](https://blog.argaghulamahmad.dev/2021/10/14/funny-romance-graphs/)
-- [New Relic Example  in GoLang](https://blog.argaghulamahmad.dev/2021/10/13/new-relic-example-in-golang/)
 <!-- BLOG-POST-LIST:END -->
