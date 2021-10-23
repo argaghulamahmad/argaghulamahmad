@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Install and Configure Samba Share on Windows 11](https://blog.argaghulamahmad.dev/2021/10/23/install-and-configure-samba-share-on-windows-11/)
 - [Install and Configure Samba](https://blog.argaghulamahmad.dev/2021/10/23/install-and-configure-samba/)
 - [How To Automount File Systems on Linux](https://blog.argaghulamahmad.dev/2021/10/23/how-to-automount-file-systems-on-linux/)
 - [Mount and Unmount File Systems in Linux](https://blog.argaghulamahmad.dev/2021/10/23/mount-and-unmount-file-systems-in-linux/)
-- [How to Access Shares on Windows 11 from Ubuntu](https://blog.argaghulamahmad.dev/2021/10/23/how-to-access-shares-on-windows-11-from-ubuntu/)
 <!-- BLOG-POST-LIST:END -->
