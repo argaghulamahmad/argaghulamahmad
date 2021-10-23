@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Access Shares on Windows 11 from Ubuntu](https://blog.argaghulamahmad.dev/2021/10/23/how-to-access-shares-on-windows-11-from-ubuntu/)
 - [Fav Indonesia Songs Video Clip](https://blog.argaghulamahmad.dev/2021/10/18/fav-indonesia-songs-video-clip/)
 - [Biaya Admin Bank BCA BNI](https://blog.argaghulamahmad.dev/2021/10/17/biaya-admin-bank-bca-bni/)
 - [Regex For Replace HTML href src Django Templating](https://blog.argaghulamahmad.dev/2021/10/17/regex-for-replace-html-href-src-django-templating/)
-- [Funny Romance Graphs](https://blog.argaghulamahmad.dev/2021/10/14/funny-romance-graphs/)
 <!-- BLOG-POST-LIST:END -->
