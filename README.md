@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Install and Configure Samba](https://blog.argaghulamahmad.dev/2021/10/23/install-and-configure-samba/)
+- [How To Automount File Systems on Linux](https://blog.argaghulamahmad.dev/2021/10/23/how-to-automount-file-systems-on-linux/)
+- [Mount and Unmount File Systems in Linux](https://blog.argaghulamahmad.dev/2021/10/23/mount-and-unmount-file-systems-in-linux/)
 - [How to Access Shares on Windows 11 from Ubuntu](https://blog.argaghulamahmad.dev/2021/10/23/how-to-access-shares-on-windows-11-from-ubuntu/)
-- [Fav Indonesia Songs Video Clip](https://blog.argaghulamahmad.dev/2021/10/18/fav-indonesia-songs-video-clip/)
-- [Biaya Admin Bank BCA BNI](https://blog.argaghulamahmad.dev/2021/10/17/biaya-admin-bank-bca-bni/)
-- [Regex For Replace HTML href src Django Templating](https://blog.argaghulamahmad.dev/2021/10/17/regex-for-replace-html-href-src-django-templating/)
 <!-- BLOG-POST-LIST:END -->
