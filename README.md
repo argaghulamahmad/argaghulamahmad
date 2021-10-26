@@ -13,5 +13,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Change owncloud data directory to an external drive](https://blog.argaghulamahmad.dev/2021/10/26/change-owncloud-data-directory-to-an-external-drive/)
 - [Install ownCloud on Ubuntu Linux with Nginx](https://blog.argaghulamahmad.dev/2021/10/25/install-owncloud-on-ubuntu-linux-with-nginx/)
 <!-- BLOG-POST-LIST:END -->
