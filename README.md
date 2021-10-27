@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How To Use Systemctl to Manage Systemd Services and Units](https://blog.argaghulamahmad.dev/2021/10/27/how-to-use-systemctl-to-manage-systemd-services-and-units/)
-- [Systemd Essentials: Working with Services, Units, and the Journal](https://blog.argaghulamahmad.dev/2021/10/27/systemd-essentials-working-with-services-units-and-the-journal/)
-- [Create a calibre Ebook Server](https://blog.argaghulamahmad.dev/2021/10/26/create-a-calibre-ebook-server/)
-- [Automate MySQL Database Backups in Linux](https://blog.argaghulamahmad.dev/2021/10/26/automate-mysql-database-backups-in-linux/)
+- [How To Partition and Format Storage Devices in Linux](https://blog.argaghulamahmad.dev/2021/10/27/how-to-partition-and-format-storage-devices-in-linux/)
+- [Set Up an NFS Mount](https://blog.argaghulamahmad.dev/2021/10/27/set-up-an-nfs-mount/)
+- [Common Firewall Rules and Commands](https://blog.argaghulamahmad.dev/2021/10/27/common-firewall-rules-and-commands/)
+- [Set Up a Firewall with UFW](https://blog.argaghulamahmad.dev/2021/10/27/set-up-a-firewall-with-ufw/)
 <!-- BLOG-POST-LIST:END -->
