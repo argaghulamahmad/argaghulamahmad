@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Use Systemctl to Manage Systemd Services and Units](https://blog.argaghulamahmad.dev/2021/10/27/how-to-use-systemctl-to-manage-systemd-services-and-units/)
+- [Systemd Essentials: Working with Services, Units, and the Journal](https://blog.argaghulamahmad.dev/2021/10/27/systemd-essentials-working-with-services-units-and-the-journal/)
 - [Create a calibre Ebook Server](https://blog.argaghulamahmad.dev/2021/10/26/create-a-calibre-ebook-server/)
 - [Automate MySQL Database Backups in Linux](https://blog.argaghulamahmad.dev/2021/10/26/automate-mysql-database-backups-in-linux/)
-- [Change owncloud data directory to an external drive](https://blog.argaghulamahmad.dev/2021/10/26/change-owncloud-data-directory-to-an-external-drive/)
-- [Install ownCloud on Ubuntu Linux with Nginx](https://blog.argaghulamahmad.dev/2021/10/25/install-owncloud-on-ubuntu-linux-with-nginx/)
 <!-- BLOG-POST-LIST:END -->
