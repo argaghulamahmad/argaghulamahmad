@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Digital Minimalism by Cal Newport](https://blog.argaghulamahmad.dev/2021/10/28/digital-minimalism-by-cal-newport/)
+- [What’s the Difference Between Solitude and Loneliness?](https://blog.argaghulamahmad.dev/2021/10/28/whats-the-difference-between-solitude-and-loneliness/)
 - [How To Partition and Format Storage Devices in Linux](https://blog.argaghulamahmad.dev/2021/10/27/how-to-partition-and-format-storage-devices-in-linux/)
 - [Set Up an NFS Mount](https://blog.argaghulamahmad.dev/2021/10/27/set-up-an-nfs-mount/)
-- [Common Firewall Rules and Commands](https://blog.argaghulamahmad.dev/2021/10/27/common-firewall-rules-and-commands/)
-- [Set Up a Firewall with UFW](https://blog.argaghulamahmad.dev/2021/10/27/set-up-a-firewall-with-ufw/)
 <!-- BLOG-POST-LIST:END -->
