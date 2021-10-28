@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Install and Use Docker Compose on Ubuntu](https://blog.argaghulamahmad.dev/2021/10/28/install-and-use-docker-compose-on-ubuntu/)
-- [Install and Use Docker on Ubuntu](https://blog.argaghulamahmad.dev/2021/10/28/install-and-use-docker-on-ubuntu/)
-- [Remove Docker Images, Containers, and Volumes](https://blog.argaghulamahmad.dev/2021/10/28/remove-docker-images-containers-and-volumes/)
-- [Digital Minimalism by Cal Newport](https://blog.argaghulamahmad.dev/2021/10/28/digital-minimalism-by-cal-newport/)
+- [10 Principles to Live an Antifragile Life](https://blog.argaghulamahmad.dev/2021/10/28/10-principles-to-live-an-antifragile-life/)
+- [Understanding Your Emotions](https://blog.argaghulamahmad.dev/2021/10/28/understanding-your-emotions/)
+- [Fixed Mindset vs. Growth Mindset Examples](https://blog.argaghulamahmad.dev/2021/10/28/fixed-mindset-vs-growth-mindset-examples/)
+- [What makes a person creepy? And what purpose do our creep detectors serve? A psychologist explains](https://blog.argaghulamahmad.dev/2021/10/28/what-makes-a-person-creepy-and-what-purpose-do-our-creep-detectors-serve-a-psychologist-explains/)
 <!-- BLOG-POST-LIST:END -->
