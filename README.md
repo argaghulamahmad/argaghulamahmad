@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Install and Use Docker Compose on Ubuntu](https://blog.argaghulamahmad.dev/2021/10/28/install-and-use-docker-compose-on-ubuntu/)
+- [Install and Use Docker on Ubuntu](https://blog.argaghulamahmad.dev/2021/10/28/install-and-use-docker-on-ubuntu/)
+- [Remove Docker Images, Containers, and Volumes](https://blog.argaghulamahmad.dev/2021/10/28/remove-docker-images-containers-and-volumes/)
 - [Digital Minimalism by Cal Newport](https://blog.argaghulamahmad.dev/2021/10/28/digital-minimalism-by-cal-newport/)
-- [What’s the Difference Between Solitude and Loneliness?](https://blog.argaghulamahmad.dev/2021/10/28/whats-the-difference-between-solitude-and-loneliness/)
-- [How To Partition and Format Storage Devices in Linux](https://blog.argaghulamahmad.dev/2021/10/27/how-to-partition-and-format-storage-devices-in-linux/)
-- [Set Up an NFS Mount](https://blog.argaghulamahmad.dev/2021/10/27/set-up-an-nfs-mount/)
 <!-- BLOG-POST-LIST:END -->
