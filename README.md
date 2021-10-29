@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [still having issues with “Error checking TLS connection: Host is not running” #453](https://blog.argaghulamahmad.dev/2021/10/29/still-having-issues-with-error-checking-tls-connection-host-is-not-running-453/)
+- [How to run a Strapi dev stack with Docker compose](https://blog.argaghulamahmad.dev/2021/10/29/how-to-run-a-strapi-dev-stack-with-docker-compose/)
 - [Self-Serving Bias: Definition and Examples](https://blog.argaghulamahmad.dev/2021/10/29/self-serving-bias-definition-and-examples/)
 - [Introvert and Extrovert Personality Traits](https://blog.argaghulamahmad.dev/2021/10/29/introvert-and-extrovert-personality-traits/)
-- [Fluid vs Crystallized Intelligence](https://blog.argaghulamahmad.dev/2021/10/29/fluid-vs-crystallized-intelligence/)
-- [Stages of Sleep: REM and Non-REM Sleep Cycles](https://blog.argaghulamahmad.dev/2021/10/29/stages-of-sleep-rem-and-non-rem-sleep-cycles/)
 <!-- BLOG-POST-LIST:END -->
