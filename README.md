@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [MikroTik DNS Client and Caching DNS Server Configuration](https://blog.argaghulamahmad.dev/2021/10/29/mikrotik-dns-client-and-caching-dns-server-configuration/)
-- [Install and Configure Elasticsearch on Ubuntu](https://blog.argaghulamahmad.dev/2021/10/29/install-and-configure-elasticsearch-on-ubuntu/)
-- [Elasticsearch 7.x Cheatsheet](https://blog.argaghulamahmad.dev/2021/10/29/elasticsearch-7-x-cheatsheet/)
-- [Install Elasticsearch, Logstash, and Kibana (Elastic Stack) on Ubuntu](https://blog.argaghulamahmad.dev/2021/10/29/install-elasticsearch-logstash-and-kibana-elastic-stack-on-ubuntu/)
+- [Self-Serving Bias: Definition and Examples](https://blog.argaghulamahmad.dev/2021/10/29/self-serving-bias-definition-and-examples/)
+- [Introvert and Extrovert Personality Traits](https://blog.argaghulamahmad.dev/2021/10/29/introvert-and-extrovert-personality-traits/)
+- [Fluid vs Crystallized Intelligence](https://blog.argaghulamahmad.dev/2021/10/29/fluid-vs-crystallized-intelligence/)
+- [Stages of Sleep: REM and Non-REM Sleep Cycles](https://blog.argaghulamahmad.dev/2021/10/29/stages-of-sleep-rem-and-non-rem-sleep-cycles/)
 <!-- BLOG-POST-LIST:END -->
