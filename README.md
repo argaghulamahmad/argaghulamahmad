@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [The Courage to be Disliked](https://blog.argaghulamahmad.dev/2021/10/28/the-courage-to-be-disliked/)
-- [Golden Circle model: Simon Sinek’s theory of value proposition, start with why](https://blog.argaghulamahmad.dev/2021/10/28/golden-circle-model-simon-sineks-theory-of-value-proposition-start-with-why/)
-- [Business is an Infinite Value Game](https://blog.argaghulamahmad.dev/2021/10/28/business-is-an-infinite-value-game/)
-- [Simon Sinek: Applying The Infinite Game Mindset To Business](https://blog.argaghulamahmad.dev/2021/10/28/simon-sinek-applying-the-infinite-game-mindset-to-business/)
+- [MikroTik DNS Client and Caching DNS Server Configuration](https://blog.argaghulamahmad.dev/2021/10/29/mikrotik-dns-client-and-caching-dns-server-configuration/)
+- [Install and Configure Elasticsearch on Ubuntu](https://blog.argaghulamahmad.dev/2021/10/29/install-and-configure-elasticsearch-on-ubuntu/)
+- [Elasticsearch 7.x Cheatsheet](https://blog.argaghulamahmad.dev/2021/10/29/elasticsearch-7-x-cheatsheet/)
+- [Install Elasticsearch, Logstash, and Kibana (Elastic Stack) on Ubuntu](https://blog.argaghulamahmad.dev/2021/10/29/install-elasticsearch-logstash-and-kibana-elastic-stack-on-ubuntu/)
 <!-- BLOG-POST-LIST:END -->
