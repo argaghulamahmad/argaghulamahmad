@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Principles to Live an Antifragile Life](https://blog.argaghulamahmad.dev/2021/10/28/10-principles-to-live-an-antifragile-life/)
-- [Understanding Your Emotions](https://blog.argaghulamahmad.dev/2021/10/28/understanding-your-emotions/)
-- [Fixed Mindset vs. Growth Mindset Examples](https://blog.argaghulamahmad.dev/2021/10/28/fixed-mindset-vs-growth-mindset-examples/)
-- [What makes a person creepy? And what purpose do our creep detectors serve? A psychologist explains](https://blog.argaghulamahmad.dev/2021/10/28/what-makes-a-person-creepy-and-what-purpose-do-our-creep-detectors-serve-a-psychologist-explains/)
+- [The Courage to be Disliked](https://blog.argaghulamahmad.dev/2021/10/28/the-courage-to-be-disliked/)
+- [Golden Circle model: Simon Sinek’s theory of value proposition, start with why](https://blog.argaghulamahmad.dev/2021/10/28/golden-circle-model-simon-sineks-theory-of-value-proposition-start-with-why/)
+- [Business is an Infinite Value Game](https://blog.argaghulamahmad.dev/2021/10/28/business-is-an-infinite-value-game/)
+- [Simon Sinek: Applying The Infinite Game Mindset To Business](https://blog.argaghulamahmad.dev/2021/10/28/simon-sinek-applying-the-infinite-game-mindset-to-business/)
 <!-- BLOG-POST-LIST:END -->
