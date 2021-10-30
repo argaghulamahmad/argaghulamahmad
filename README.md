@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [efficient-replacement-of-source-urls-with-django-static-urls](https://blog.argaghulamahmad.dev/2021/10/30/efficient-replacement-of-source-urls-with-django-static-urls/)
+- [Pipenv Cheat Sheet](https://blog.argaghulamahmad.dev/2021/10/30/pipenv-cheat-sheet/)
+- [Django cheat sheet](https://blog.argaghulamahmad.dev/2021/10/30/django-cheat-sheet/)
 - [Using Freqtrade with Docker](https://blog.argaghulamahmad.dev/2021/10/29/using-freqtrade-with-docker%c2%b6/)
-- [User Authentication with Keycloak](https://blog.argaghulamahmad.dev/2021/10/29/user-authentication-with-keycloak/)
-- [Screen Quick Reference](https://blog.argaghulamahmad.dev/2021/10/29/screen-quick-reference/)
-- [still having issues with “Error checking TLS connection: Host is not running” #453](https://blog.argaghulamahmad.dev/2021/10/29/still-having-issues-with-error-checking-tls-connection-host-is-not-running-453/)
 <!-- BLOG-POST-LIST:END -->
