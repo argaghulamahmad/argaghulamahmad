@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Do these things when You Mad – Fuck Your Feelings](https://blog.argaghulamahmad.dev/2021/10/30/do-these-things-when-you-mad-fuck-your-feelings/)
+- [How to Deal With Negative Emotions and Stress](https://blog.argaghulamahmad.dev/2021/10/30/how-to-deal-with-negative-emotions-and-stress/)
+- [What Is a Toxic Relationship?](https://blog.argaghulamahmad.dev/2021/10/30/what-is-a-toxic-relationship/)
 - [efficient-replacement-of-source-urls-with-django-static-urls](https://blog.argaghulamahmad.dev/2021/10/30/efficient-replacement-of-source-urls-with-django-static-urls/)
-- [Pipenv Cheat Sheet](https://blog.argaghulamahmad.dev/2021/10/30/pipenv-cheat-sheet/)
-- [Django cheat sheet](https://blog.argaghulamahmad.dev/2021/10/30/django-cheat-sheet/)
-- [Using Freqtrade with Docker](https://blog.argaghulamahmad.dev/2021/10/29/using-freqtrade-with-docker%c2%b6/)
 <!-- BLOG-POST-LIST:END -->
