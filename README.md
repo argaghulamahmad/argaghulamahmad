@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Freqtrade with Docker](https://blog.argaghulamahmad.dev/2021/10/29/using-freqtrade-with-docker%c2%b6/)
+- [User Authentication with Keycloak](https://blog.argaghulamahmad.dev/2021/10/29/user-authentication-with-keycloak/)
 - [Screen Quick Reference](https://blog.argaghulamahmad.dev/2021/10/29/screen-quick-reference/)
 - [still having issues with “Error checking TLS connection: Host is not running” #453](https://blog.argaghulamahmad.dev/2021/10/29/still-having-issues-with-error-checking-tls-connection-host-is-not-running-453/)
-- [How to run a Strapi dev stack with Docker compose](https://blog.argaghulamahmad.dev/2021/10/29/how-to-run-a-strapi-dev-stack-with-docker-compose/)
-- [Self-Serving Bias: Definition and Examples](https://blog.argaghulamahmad.dev/2021/10/29/self-serving-bias-definition-and-examples/)
 <!-- BLOG-POST-LIST:END -->
