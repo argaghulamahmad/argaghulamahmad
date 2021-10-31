@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Locked Away](https://blog.argaghulamahmad.dev/2021/10/30/locked-away/)
-- [Be Alright](https://blog.argaghulamahmad.dev/2021/10/30/be-alright/)
-- [Too Much To Ask](https://blog.argaghulamahmad.dev/2021/10/30/too-much-to-ask/)
-- [Continuous or discrete variable](https://blog.argaghulamahmad.dev/2021/10/30/continuous-or-discrete-variable/)
+- [PhotoPrism Docker](https://blog.argaghulamahmad.dev/2021/10/31/photoprism-docker/)
+- [Installing Personal CRM Monica  on Docker](https://blog.argaghulamahmad.dev/2021/10/31/installing-monica-on-docker/)
+- [Kong API Gateway Installation Guide for beginners](https://blog.argaghulamahmad.dev/2021/10/31/kong-api-gateway-installation-guide-for-beginners/)
+- [Kong Gateway Tutorial](https://blog.argaghulamahmad.dev/2021/10/31/kong-gateway-tutorial/)
 <!-- BLOG-POST-LIST:END -->
