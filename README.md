@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Atomic Habits by James Clear: Summary and Lessons](https://blog.argaghulamahmad.dev/2021/11/01/atomic-habits-by-james-clear-summary-and-lessons/)
-- [Steal Like an Artist Austin Kleon: Summary and Lessons](https://blog.argaghulamahmad.dev/2021/11/01/steal-like-an-artist-austin-kleon-summary-and-lessons/)
-- [Rework by Jason Fried and David Heinemeier Hansson: Summary and Lessons](https://blog.argaghulamahmad.dev/2021/11/01/rework-by-jason-fried-and-david-heinemeier-hansson-summary-and-lessons/)
-- [How To Have a Good Day by Caroline Webb: Summary and Notes](https://blog.argaghulamahmad.dev/2021/11/01/how-to-have-a-good-day-by-caroline-webb-summary-and-notes/)
+- [Built To Last by Jim Collins: Summary and Notes](https://blog.argaghulamahmad.dev/2021/11/01/built-to-last-by-jim-collins-summary-and-notes/)
+- [The Hard Thing About Hard Things By Ben Horowitz: Summary and Notes](https://blog.argaghulamahmad.dev/2021/11/01/the-hard-thing-about-hard-things-by-ben-horowitz-summary-and-notes/)
+- [Models by Mark Manson: Summary and Lessons](https://blog.argaghulamahmad.dev/2021/11/01/models-by-mark-manson-summary-and-lessons/)
+- [Extreme Productivity by Robert Pozen: Summary and Notes](https://blog.argaghulamahmad.dev/2021/11/01/extreme-productivity-by-robert-pozen-summary-and-notes/)
 <!-- BLOG-POST-LIST:END -->
