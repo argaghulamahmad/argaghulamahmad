@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [The 4-Hour Workweek by Tim Ferriss: Summary and Lessons](https://blog.argaghulamahmad.dev/2021/11/01/the-4-hour-workweek-by-tim-ferriss-summary-and-lessons/)
-- [Predictably Irrational by Dan Ariely: Summary and Notes](https://blog.argaghulamahmad.dev/2021/11/01/predictably-irrational-by-dan-ariely-summary-and-notes/)
-- [Peak by Anders Ericsson and Robert Pool: Summary and Notes](https://blog.argaghulamahmad.dev/2021/11/01/peak-by-anders-ericsson-and-robert-pool-summary-and-notes/)
-- [Never Split The Difference by Chris Voss: Summary and Notes](https://blog.argaghulamahmad.dev/2021/11/01/never-split-the-difference-by-chris-voss-summary-and-notes/)
+- [Cara Menggunakan Touch Command Linux dengan Contoh](https://blog.argaghulamahmad.dev/2021/11/01/cara-menggunakan-touch-command-linux-dengan-contoh/)
+- [Apa Itu Chown Command Linux dan Bagaimana Cara Menggunakannya](https://blog.argaghulamahmad.dev/2021/11/01/apa-itu-chown-command-linux-dan-bagaimana-cara-menggunakannya/)
+- [Set Up Your Own WireGuard VPN Server on Ubuntu 20.04/18.04](https://blog.argaghulamahmad.dev/2021/11/01/set-up-your-own-wireguard-vpn-server-on-ubuntu-20-04-18-04/)
+- [How to Install Passbolt Password Manager on Ubuntu 18.04 Server](https://blog.argaghulamahmad.dev/2021/11/01/how-to-install-passbolt-password-manager-on-ubuntu-18-04-server/)
 <!-- BLOG-POST-LIST:END -->
