@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Built To Last by Jim Collins: Summary and Notes](https://blog.argaghulamahmad.dev/2021/11/01/built-to-last-by-jim-collins-summary-and-notes/)
-- [The Hard Thing About Hard Things By Ben Horowitz: Summary and Notes](https://blog.argaghulamahmad.dev/2021/11/01/the-hard-thing-about-hard-things-by-ben-horowitz-summary-and-notes/)
-- [Models by Mark Manson: Summary and Lessons](https://blog.argaghulamahmad.dev/2021/11/01/models-by-mark-manson-summary-and-lessons/)
-- [Extreme Productivity by Robert Pozen: Summary and Notes](https://blog.argaghulamahmad.dev/2021/11/01/extreme-productivity-by-robert-pozen-summary-and-notes/)
+- [Peak by Anders Ericsson and Robert Pool: Summary and Notes](https://blog.argaghulamahmad.dev/2021/11/01/peak-by-anders-ericsson-and-robert-pool-summary-and-notes/)
+- [Never Split The Difference by Chris Voss: Summary and Notes](https://blog.argaghulamahmad.dev/2021/11/01/never-split-the-difference-by-chris-voss-summary-and-notes/)
+- [On Writing Well by William Zinsser: Summary and Notes](https://blog.argaghulamahmad.dev/2021/11/01/on-writing-well-by-william-zinsser-summary-and-notes/)
+- [Principles By Ray Dalio: Summary And Notes](https://blog.argaghulamahmad.dev/2021/11/01/principles-by-ray-dalio-summary-and-notes/)
 <!-- BLOG-POST-LIST:END -->
