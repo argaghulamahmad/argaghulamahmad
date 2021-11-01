@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The 4-Hour Workweek by Tim Ferriss: Summary and Lessons](https://blog.argaghulamahmad.dev/2021/11/01/the-4-hour-workweek-by-tim-ferriss-summary-and-lessons/)
+- [Predictably Irrational by Dan Ariely: Summary and Notes](https://blog.argaghulamahmad.dev/2021/11/01/predictably-irrational-by-dan-ariely-summary-and-notes/)
 - [Peak by Anders Ericsson and Robert Pool: Summary and Notes](https://blog.argaghulamahmad.dev/2021/11/01/peak-by-anders-ericsson-and-robert-pool-summary-and-notes/)
 - [Never Split The Difference by Chris Voss: Summary and Notes](https://blog.argaghulamahmad.dev/2021/11/01/never-split-the-difference-by-chris-voss-summary-and-notes/)
-- [On Writing Well by William Zinsser: Summary and Notes](https://blog.argaghulamahmad.dev/2021/11/01/on-writing-well-by-william-zinsser-summary-and-notes/)
-- [Principles By Ray Dalio: Summary And Notes](https://blog.argaghulamahmad.dev/2021/11/01/principles-by-ray-dalio-summary-and-notes/)
 <!-- BLOG-POST-LIST:END -->
