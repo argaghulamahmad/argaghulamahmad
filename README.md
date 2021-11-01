@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [PhotoPrism Docker](https://blog.argaghulamahmad.dev/2021/10/31/photoprism-docker/)
-- [Installing Personal CRM Monica  on Docker](https://blog.argaghulamahmad.dev/2021/10/31/installing-monica-on-docker/)
-- [Kong API Gateway Installation Guide for beginners](https://blog.argaghulamahmad.dev/2021/10/31/kong-api-gateway-installation-guide-for-beginners/)
-- [Kong Gateway Tutorial](https://blog.argaghulamahmad.dev/2021/10/31/kong-gateway-tutorial/)
+- [High Output Management by Andrew Grove: Summary and Notes](https://blog.argaghulamahmad.dev/2021/11/01/high-output-management-by-andrew-grove-summary-and-notes/)
+- [The 7 Habits of Highly Effective People by Stephen Covey: Summary](https://blog.argaghulamahmad.dev/2021/11/01/the-7-habits-of-highly-effective-people-by-stephen-covey-summary/)
+- [Books Sumarries Resources](https://blog.argaghulamahmad.dev/2021/11/01/books-sumarries-resources/)
+- [Ego Is the Enemy by Ryan Holiday](https://blog.argaghulamahmad.dev/2021/11/01/ego-is-the-enemy-by-ryan-holiday/)
 <!-- BLOG-POST-LIST:END -->
