@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [High Output Management by Andrew Grove: Summary and Notes](https://blog.argaghulamahmad.dev/2021/11/01/high-output-management-by-andrew-grove-summary-and-notes/)
-- [The 7 Habits of Highly Effective People by Stephen Covey: Summary](https://blog.argaghulamahmad.dev/2021/11/01/the-7-habits-of-highly-effective-people-by-stephen-covey-summary/)
-- [Books Sumarries Resources](https://blog.argaghulamahmad.dev/2021/11/01/books-sumarries-resources/)
-- [Ego Is the Enemy by Ryan Holiday](https://blog.argaghulamahmad.dev/2021/11/01/ego-is-the-enemy-by-ryan-holiday/)
+- [Atomic Habits by James Clear: Summary and Lessons](https://blog.argaghulamahmad.dev/2021/11/01/atomic-habits-by-james-clear-summary-and-lessons/)
+- [Steal Like an Artist Austin Kleon: Summary and Lessons](https://blog.argaghulamahmad.dev/2021/11/01/steal-like-an-artist-austin-kleon-summary-and-lessons/)
+- [Rework by Jason Fried and David Heinemeier Hansson: Summary and Lessons](https://blog.argaghulamahmad.dev/2021/11/01/rework-by-jason-fried-and-david-heinemeier-hansson-summary-and-lessons/)
+- [How To Have a Good Day by Caroline Webb: Summary and Notes](https://blog.argaghulamahmad.dev/2021/11/01/how-to-have-a-good-day-by-caroline-webb-summary-and-notes/)
 <!-- BLOG-POST-LIST:END -->
