@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use the Less Command](https://blog.argaghulamahmad.dev/2021/11/02/how-to-use-the-less-command/)
+- [How to Use the Head Command](https://blog.argaghulamahmad.dev/2021/11/02/how-to-use-the-head-command/)
+- [How to Use the Grep Command](https://blog.argaghulamahmad.dev/2021/11/02/how-to-use-the-grep-command/)
 - [How to use Grep and Tree Linux command](https://blog.argaghulamahmad.dev/2021/11/01/how-to-use-grep-and-tree-linux-command/)
-- [The State of AI](https://blog.argaghulamahmad.dev/2021/11/01/the-state-of-ai/)
-- [The Why, How, and What of Metrics and Observability](https://blog.argaghulamahmad.dev/2021/11/01/the-why-how-and-what-of-metrics-and-observability/)
-- [Cara Menggunakan Touch Command Linux dengan Contoh](https://blog.argaghulamahmad.dev/2021/11/01/cara-menggunakan-touch-command-linux-dengan-contoh/)
 <!-- BLOG-POST-LIST:END -->
