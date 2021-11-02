@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Use the Less Command](https://blog.argaghulamahmad.dev/2021/11/02/how-to-use-the-less-command/)
-- [How to Use the Head Command](https://blog.argaghulamahmad.dev/2021/11/02/how-to-use-the-head-command/)
-- [How to Use the Grep Command](https://blog.argaghulamahmad.dev/2021/11/02/how-to-use-the-grep-command/)
-- [How to use Grep and Tree Linux command](https://blog.argaghulamahmad.dev/2021/11/01/how-to-use-grep-and-tree-linux-command/)
+- [How to Use the Linux xargs Command](https://blog.argaghulamahmad.dev/2021/11/02/how-to-use-the-linux-xargs-command/)
+- [Find and Terminate Processes from the Linux or Mac OS Command Line](https://blog.argaghulamahmad.dev/2021/11/02/find-and-terminate-processes-from-the-linux-or-mac-os-command-line/)
+- [How to use fsck – Quick Answer](https://blog.argaghulamahmad.dev/2021/11/02/how-to-use-fsck-quick-answer/)
+- [Using the ps aux Command in Linux](https://blog.argaghulamahmad.dev/2021/11/02/using-the-ps-aux-command-in-linux/)
 <!-- BLOG-POST-LIST:END -->
