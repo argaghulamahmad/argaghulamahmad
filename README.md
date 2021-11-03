@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Install Prometheus Server on Ubuntu 20.04](https://blog.argaghulamahmad.dev/2021/11/03/install-prometheus-server-on-ubuntu-20-04/)
+- [How To Install and Secure Grafana on Ubuntu 20.04](https://blog.argaghulamahmad.dev/2021/11/03/how-to-install-and-secure-grafana-on-ubuntu-20-04/)
 - [How To Use Journalctl to View and Manipulate Systemd Logs](https://blog.argaghulamahmad.dev/2021/11/03/how-to-use-journalctl-to-view-and-manipulate-systemd-logs/)
 - [MySQL Cheat Sheet](https://blog.argaghulamahmad.dev/2021/11/03/mysql-cheat-sheet/)
-- [How to Use the Linux xargs Command](https://blog.argaghulamahmad.dev/2021/11/02/how-to-use-the-linux-xargs-command/)
-- [Find and Terminate Processes from the Linux or Mac OS Command Line](https://blog.argaghulamahmad.dev/2021/11/02/find-and-terminate-processes-from-the-linux-or-mac-os-command-line/)
 <!-- BLOG-POST-LIST:END -->
