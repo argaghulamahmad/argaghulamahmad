@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [MySQL Cheat Sheet](https://blog.argaghulamahmad.dev/2021/11/03/mysql-cheat-sheet/)
 - [How to Use the Linux xargs Command](https://blog.argaghulamahmad.dev/2021/11/02/how-to-use-the-linux-xargs-command/)
 - [Find and Terminate Processes from the Linux or Mac OS Command Line](https://blog.argaghulamahmad.dev/2021/11/02/find-and-terminate-processes-from-the-linux-or-mac-os-command-line/)
 - [How to use fsck – Quick Answer](https://blog.argaghulamahmad.dev/2021/11/02/how-to-use-fsck-quick-answer/)
-- [Using the ps aux Command in Linux](https://blog.argaghulamahmad.dev/2021/11/02/using-the-ps-aux-command-in-linux/)
 <!-- BLOG-POST-LIST:END -->
