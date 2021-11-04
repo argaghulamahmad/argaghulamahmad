@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero Downtime Reload With Socketmaster](https://blog.argaghulamahmad.dev/2021/11/04/zero-downtime-reload-with-socketmaster/)
-- [Introduction to Consul](https://blog.argaghulamahmad.dev/2021/11/04/introduction-to-consul/)
-- [Load Balancing Strategies for Consul](https://blog.argaghulamahmad.dev/2021/11/04/load-balancing-strategies-for-consul/)
-- [Analysis of Algorithms | Set 1 (Asymptotic Analysis)](https://blog.argaghulamahmad.dev/2021/11/04/analysis-of-algorithms-set-1-asymptotic-analysis/)
+- [YugaByte DB High Availability & Transactions for PostgreSQL & MongoDB Developers](https://blog.argaghulamahmad.dev/2021/11/04/yugabyte-db-high-availability-transactions-for-postgresql-mongodb-developers/)
+- [Fluentd plugin for log forwarding](https://blog.argaghulamahmad.dev/2021/11/04/fluentd-plugin-for-log-forwarding/)
+- [Fluentd vs. Fluent Bit: Side by Side Comparison](https://blog.argaghulamahmad.dev/2021/11/04/fluentd-vs-fluent-bit-side-by-side-comparison/)
+- [How to Manage Docker Containers using Portainer on Ubuntu](https://blog.argaghulamahmad.dev/2021/11/04/how-to-manage-docker-containers-using-portainer-on-ubuntu/)
 <!-- BLOG-POST-LIST:END -->
