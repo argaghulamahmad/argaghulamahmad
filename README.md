@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Analysis of Algorithms | Set 1 (Asymptotic Analysis)](https://blog.argaghulamahmad.dev/2021/11/04/analysis-of-algorithms-set-1-asymptotic-analysis/)
+- [How to be a Mindful Muslim](https://blog.argaghulamahmad.dev/2021/11/04/how-to-be-a-mindful-muslim/)
+- [Stress Management: Relaxing Your Mind and Body](https://blog.argaghulamahmad.dev/2021/11/04/stress-management-relaxing-your-mind-and-body/)
 - [What Self-Awareness Really Is (and How to Cultivate It)](https://blog.argaghulamahmad.dev/2021/11/04/what-self-awareness-really-is-and-how-to-cultivate-it/)
-- [The Basics of Game Theory](https://blog.argaghulamahmad.dev/2021/11/04/the-basics-of-game-theory/)
-- [5 Examples of Game Theory in Real Life](https://blog.argaghulamahmad.dev/2021/11/04/5-examples-of-game-theory-in-real-life/)
-- [How Embracing Vulnerability Strengthens Our Relationships](https://blog.argaghulamahmad.dev/2021/11/04/how-embracing-vulnerability-strengthens-our-relationships/)
 <!-- BLOG-POST-LIST:END -->
