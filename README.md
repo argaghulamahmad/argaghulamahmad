@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ACID Properties in DBMS](https://blog.argaghulamahmad.dev/2021/11/04/acid-properties-in-dbms/)
 - [YugaByte DB High Availability & Transactions for PostgreSQL & MongoDB Developers](https://blog.argaghulamahmad.dev/2021/11/04/yugabyte-db-high-availability-transactions-for-postgresql-mongodb-developers/)
 - [Fluentd plugin for log forwarding](https://blog.argaghulamahmad.dev/2021/11/04/fluentd-plugin-for-log-forwarding/)
 - [Fluentd vs. Fluent Bit: Side by Side Comparison](https://blog.argaghulamahmad.dev/2021/11/04/fluentd-vs-fluent-bit-side-by-side-comparison/)
-- [How to Manage Docker Containers using Portainer on Ubuntu](https://blog.argaghulamahmad.dev/2021/11/04/how-to-manage-docker-containers-using-portainer-on-ubuntu/)
 <!-- BLOG-POST-LIST:END -->
