@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Consul](https://blog.argaghulamahmad.dev/2021/11/04/introduction-to-consul/)
+- [Load Balancing Strategies for Consul](https://blog.argaghulamahmad.dev/2021/11/04/load-balancing-strategies-for-consul/)
 - [Analysis of Algorithms | Set 1 (Asymptotic Analysis)](https://blog.argaghulamahmad.dev/2021/11/04/analysis-of-algorithms-set-1-asymptotic-analysis/)
 - [How to be a Mindful Muslim](https://blog.argaghulamahmad.dev/2021/11/04/how-to-be-a-mindful-muslim/)
-- [Stress Management: Relaxing Your Mind and Body](https://blog.argaghulamahmad.dev/2021/11/04/stress-management-relaxing-your-mind-and-body/)
-- [What Self-Awareness Really Is (and How to Cultivate It)](https://blog.argaghulamahmad.dev/2021/11/04/what-self-awareness-really-is-and-how-to-cultivate-it/)
 <!-- BLOG-POST-LIST:END -->
