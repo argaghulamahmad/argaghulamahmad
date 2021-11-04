@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Install Prometheus Server on Ubuntu 20.04](https://blog.argaghulamahmad.dev/2021/11/03/install-prometheus-server-on-ubuntu-20-04/)
-- [How To Install and Secure Grafana on Ubuntu 20.04](https://blog.argaghulamahmad.dev/2021/11/03/how-to-install-and-secure-grafana-on-ubuntu-20-04/)
-- [How To Use Journalctl to View and Manipulate Systemd Logs](https://blog.argaghulamahmad.dev/2021/11/03/how-to-use-journalctl-to-view-and-manipulate-systemd-logs/)
-- [MySQL Cheat Sheet](https://blog.argaghulamahmad.dev/2021/11/03/mysql-cheat-sheet/)
+- [What Self-Awareness Really Is (and How to Cultivate It)](https://blog.argaghulamahmad.dev/2021/11/04/what-self-awareness-really-is-and-how-to-cultivate-it/)
+- [The Basics of Game Theory](https://blog.argaghulamahmad.dev/2021/11/04/the-basics-of-game-theory/)
+- [5 Examples of Game Theory in Real Life](https://blog.argaghulamahmad.dev/2021/11/04/5-examples-of-game-theory-in-real-life/)
+- [How Embracing Vulnerability Strengthens Our Relationships](https://blog.argaghulamahmad.dev/2021/11/04/how-embracing-vulnerability-strengthens-our-relationships/)
 <!-- BLOG-POST-LIST:END -->
