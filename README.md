@@ -13,5 +13,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Another WordPress Site](https://blog.argaghulamahmad.dev/2021/11/04/hello-world/)
+- [Merancang Hidup seperti Desainer](https://blog.argaghulamahmad.dev/2021/11/06/merancang-hidup-seperti-desainer/)
+- [Menghadapi Kegagalan dengan Lebih Baik](https://blog.argaghulamahmad.dev/2021/11/06/menghadapi-kegagalan-dengan-lebih-baik/)
 <!-- BLOG-POST-LIST:END -->
