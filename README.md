@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Umpan Balik Otak Manusia](https://blog.argaghulamahmad.dev/2021/11/07/umpan-balik-otak-manusia/)
+- [Anda adalah Informasi yang Anda Konsumsi](https://blog.argaghulamahmad.dev/2021/11/07/aktif-mengonsumsi-informasi/)
 - [Membangun Self Hosted Server](https://blog.argaghulamahmad.dev/2021/11/07/membangun-server-sendiri/)
 - [Menjalani Hidup Sepenuhnya](https://blog.argaghulamahmad.dev/2021/11/06/belajar-bagaimana-menjalani-hidup-sepenuhnya/)
-- [Merancang Hidup seperti Desainer](https://blog.argaghulamahmad.dev/2021/11/06/merancang-hidup-seperti-desainer/)
-- [Menghadapi Kegagalan dengan Lebih Baik](https://blog.argaghulamahmad.dev/2021/11/06/menghadapi-kegagalan-dengan-lebih-baik/)
 <!-- BLOG-POST-LIST:END -->
