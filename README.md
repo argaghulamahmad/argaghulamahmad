@@ -13,7 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Belajar Bagaimana Menjalani Hidup Sepenuhnya](https://blog.argaghulamahmad.dev/2021/11/06/belajar-bagaimana-menjalani-hidup-sepenuhnya/)
+- [Membangun Server Sendiri](https://blog.argaghulamahmad.dev/2021/11/07/membangun-server-sendiri/)
+- [Menjalani Hidup Sepenuhnya](https://blog.argaghulamahmad.dev/2021/11/06/belajar-bagaimana-menjalani-hidup-sepenuhnya/)
 - [Merancang Hidup seperti Desainer](https://blog.argaghulamahmad.dev/2021/11/06/merancang-hidup-seperti-desainer/)
 - [Menghadapi Kegagalan dengan Lebih Baik](https://blog.argaghulamahmad.dev/2021/11/06/menghadapi-kegagalan-dengan-lebih-baik/)
 <!-- BLOG-POST-LIST:END -->
