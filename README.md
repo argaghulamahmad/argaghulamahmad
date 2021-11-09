@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Realitas Hubungan yang Sehat](https://blog.argaghulamahmad.dev/2021/11/09/realitas-hubungan-yang-sehat/)
 - [Menulis adalah Berpikir](https://blog.argaghulamahmad.dev/2021/11/08/menulis-adalah-berpikir/)
 - [Mengendalikan Teknologi](https://blog.argaghulamahmad.dev/2021/11/07/dikendalikan-teknologi/)
 - [Hukum Pengembalian Marginal yang Berkurang](https://blog.argaghulamahmad.dev/2021/11/07/hukum-pengembalian-marginal-yang-berkurang/)
-- [Umpan Balik Otak Manusia](https://blog.argaghulamahmad.dev/2021/11/07/umpan-balik-otak-manusia/)
 <!-- BLOG-POST-LIST:END -->
