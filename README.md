@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Menjalani Kehidupan yang Hebat dengan Kekayaan sejati](https://blog.argaghulamahmad.dev/2021/11/09/menjalani-kehidupan-yang-hebat-dengan-kekayaan-sejati/)
+- [Perjalanan Menuju Kemiskinan](https://blog.argaghulamahmad.dev/2021/11/09/perjalanan-menuju-kemiskinan/)
 - [Realitas Hubungan yang Sehat](https://blog.argaghulamahmad.dev/2021/11/09/realitas-hubungan-yang-sehat/)
 - [Menulis adalah Berpikir](https://blog.argaghulamahmad.dev/2021/11/08/menulis-adalah-berpikir/)
-- [Mengendalikan Teknologi](https://blog.argaghulamahmad.dev/2021/11/07/dikendalikan-teknologi/)
-- [Hukum Pengembalian Marginal yang Berkurang](https://blog.argaghulamahmad.dev/2021/11/07/hukum-pengembalian-marginal-yang-berkurang/)
 <!-- BLOG-POST-LIST:END -->
