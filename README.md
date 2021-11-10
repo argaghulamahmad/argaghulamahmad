@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Disiplin Diri Melalui Penerimaan Diri](https://blog.argaghulamahmad.dev/2021/11/10/disiplin-diri-melalui-penerimaan-diri/)
+- [Apa yang bisa saya lakukan dengan waktu saya yang penting?](https://blog.argaghulamahmad.dev/2021/11/10/apa-yang-bisa-saya-lakukan-dengan-waktu-saya-yang-penting/)
 - [Menjalani Kehidupan yang Hebat dengan Kekayaan sejati](https://blog.argaghulamahmad.dev/2021/11/09/menjalani-kehidupan-yang-hebat-dengan-kekayaan-sejati/)
-- [Perjalanan Menuju Kemiskinan](https://blog.argaghulamahmad.dev/2021/11/09/perjalanan-menuju-kemiskinan/)
 - [Realitas Hubungan yang Sehat](https://blog.argaghulamahmad.dev/2021/11/09/realitas-hubungan-yang-sehat/)
-- [Menulis adalah Berpikir](https://blog.argaghulamahmad.dev/2021/11/08/menulis-adalah-berpikir/)
 <!-- BLOG-POST-LIST:END -->
