@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Long Live Learning](https://blog.argaghulamahmad.dev/2021/11/15/menggunakan-teknologi-dengan-bijak/)
+- [Kesadaran dan Kualitas hidup](https://blog.argaghulamahmad.dev/2021/11/15/kesadaran-dan-kualitas-hidup/)
 - [Melatih diri untuk melihat “tidak” sebagai sesuatu selain penolakan](https://blog.argaghulamahmad.dev/2021/11/15/melatih-diri-untuk-melihat-tidak-sebagai-sesuatu-selain-penolakan/)
 - [Menjadi Orang yang Menarik](https://blog.argaghulamahmad.dev/2021/11/15/menjadi-orang-yang-menarik/)
-- [Gue bisa jadi ganteng](https://blog.argaghulamahmad.dev/2021/11/15/gue-bisa-jadi-ganteng/)
-- [Dorong Kemampuan Kognitif Anda hingga Batasnya](https://blog.argaghulamahmad.dev/2021/11/10/dorong-kemampuan-kognitif-anda-hingga-batasnya/)
 <!-- BLOG-POST-LIST:END -->
