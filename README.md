@@ -13,7 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Nilai Kontraintuitif untuk Kehidupan yang Baik](https://blog.argaghulamahmad.dev/2021/11/15/5-nilai-kontraintuitif-untuk-kehidupan-yang-baik/)
+- [Nilai-nilai Kontraintuitif untuk Kehidupan yang Baik](https://blog.argaghulamahmad.dev/2021/11/15/5-nilai-kontraintuitif-untuk-kehidupan-yang-baik/)
 - [Anda ditentukan oleh apa yang ingin Anda perjuangkan](https://blog.argaghulamahmad.dev/2021/11/15/anda-ditentukan-oleh-apa-yang-ingin-anda-perjuangkan/)
 - [Membuat versi terbaik dari diri Anda](https://blog.argaghulamahmad.dev/2021/11/15/membuat-versi-terbaik-dari-diri-anda/)
 - [Tetap Menang walaupun Anda Gagal](https://blog.argaghulamahmad.dev/2021/11/15/tetap-menang-walaupun-anda-gagal/)
