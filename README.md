@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Menjadi Dewasa](https://blog.argaghulamahmad.dev/2021/11/16/mengetahui-apa-yang-benar-benar-anda-hargai/)
 - [Kendalikan Pilihanmu](https://blog.argaghulamahmad.dev/2021/11/16/kendalikan-pilihanmu/)
 - [Nilai-nilai Kontraintuitif untuk Kehidupan yang Baik](https://blog.argaghulamahmad.dev/2021/11/15/5-nilai-kontraintuitif-untuk-kehidupan-yang-baik/)
 - [Anda ditentukan oleh apa yang ingin Anda perjuangkan](https://blog.argaghulamahmad.dev/2021/11/15/anda-ditentukan-oleh-apa-yang-ingin-anda-perjuangkan/)
-- [Membuat versi terbaik dari diri Anda](https://blog.argaghulamahmad.dev/2021/11/15/membuat-versi-terbaik-dari-diri-anda/)
 <!-- BLOG-POST-LIST:END -->
