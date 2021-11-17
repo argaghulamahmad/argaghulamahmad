@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Apakah Sosial Media berguna bagi Saya?](https://blog.argaghulamahmad.dev/2021/11/17/sosial-media-yang-tidak-penting/)
 - [Menjadi Dewasa](https://blog.argaghulamahmad.dev/2021/11/16/mengetahui-apa-yang-benar-benar-anda-hargai/)
 - [Kendalikan Pilihanmu](https://blog.argaghulamahmad.dev/2021/11/16/kendalikan-pilihanmu/)
 - [Nilai-nilai Kontraintuitif untuk Kehidupan yang Baik](https://blog.argaghulamahmad.dev/2021/11/15/5-nilai-kontraintuitif-untuk-kehidupan-yang-baik/)
-- [Anda ditentukan oleh apa yang ingin Anda perjuangkan](https://blog.argaghulamahmad.dev/2021/11/15/anda-ditentukan-oleh-apa-yang-ingin-anda-perjuangkan/)
 <!-- BLOG-POST-LIST:END -->
