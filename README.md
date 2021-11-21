@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Berpikir dengan Baik yang mengarah pada perencanaan yang logis dan konstruktif](https://blog.argaghulamahmad.dev/2021/11/21/berpikir-dengan-baik-yang-mengarah-pada-perencanaan-yang-logis-dan-konstruktif/)
+- [Cerdas Finansial – memahami makna di balik angka keuangan](https://blog.argaghulamahmad.dev/2021/11/21/cerdas-finansial-memahami-makna-di-balik-angka-keuangan/)
+- [Cintai Diri Lo Sendiri – Apa Nilai yang lu Bisa kasi ke Gue](https://blog.argaghulamahmad.dev/2021/11/21/cuma-diri-lo-yang-peduli-sama-lo-apa-nilai-yang-lu-bisa-kasi-ke-gue/)
 - [Status Sosial dan Sumber Daya](https://blog.argaghulamahmad.dev/2021/11/21/status-sosial-dan-sumber-daya/)
-- [Bangun Sistem Anda Sendiri](https://blog.argaghulamahmad.dev/2021/11/17/bangun-sistem-anda-sendiri/)
-- [Apakah Sosial Media berguna bagi Saya?](https://blog.argaghulamahmad.dev/2021/11/17/sosial-media-yang-tidak-penting/)
-- [Menjadi Dewasa](https://blog.argaghulamahmad.dev/2021/11/16/mengetahui-apa-yang-benar-benar-anda-hargai/)
 <!-- BLOG-POST-LIST:END -->
