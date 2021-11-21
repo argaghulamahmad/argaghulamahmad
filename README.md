@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Status Sosial dan Sumber Daya](https://blog.argaghulamahmad.dev/2021/11/21/status-sosial-dan-sumber-daya/)
 - [Bangun Sistem Anda Sendiri](https://blog.argaghulamahmad.dev/2021/11/17/bangun-sistem-anda-sendiri/)
 - [Apakah Sosial Media berguna bagi Saya?](https://blog.argaghulamahmad.dev/2021/11/17/sosial-media-yang-tidak-penting/)
 - [Menjadi Dewasa](https://blog.argaghulamahmad.dev/2021/11/16/mengetahui-apa-yang-benar-benar-anda-hargai/)
-- [Kendalikan Pilihanmu](https://blog.argaghulamahmad.dev/2021/11/16/kendalikan-pilihanmu/)
 <!-- BLOG-POST-LIST:END -->
